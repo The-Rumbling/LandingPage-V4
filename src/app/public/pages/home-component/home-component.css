@@ -1,0 +1,17 @@
+.video-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+.video-card iframe {
+  width: 80%;
+  max-width: 800px;
+  height: 450px;
+  border-radius: 20px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.4); /* sombra blanca visible */
+  border: none;
+}

@@ -1,0 +1,16 @@
+button[mat-raised-button] {
+  background-color: #CB6CE6;
+  color: white;
+  padding: 0.6rem 1.5rem;
+  border-radius: 25px;
+  font-weight: bold;
+  font-size: 1rem;
+  box-shadow: 0 4px 10px rgba(203, 108, 230, 0.3);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease;
+}
+
+button[mat-raised-button]:hover {
+  background-color: #b44cd3;
+  box-shadow: 0 6px 14px rgba(203, 108, 230, 0.4);
+  transform: translateY(-2px);
+}
