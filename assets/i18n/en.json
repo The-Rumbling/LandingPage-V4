@@ -1,0 +1,33 @@
+{
+  "inicio": "Home",
+  "fans": "For Fans",
+  "artistas": "For Artists",
+  "ingresar": "Explore",
+  "conoce": "Discover scheduled concerts near you",
+  "Testimonios": "Fan Testimonials",
+  "testuno": "“I’ve been a Stay since 2018 and always got frustrated missing K-pop events because I found out too late. Thanks to StayMap, I found out about the local Stray Kids fanmeeting on time — with tickets still available! This app is my lifesaver.”",
+  "testunoby": "—Camila, 21 years old, Lima. Stray Kids Fan",
+  "testdos": "“When Harry came to Peru, I found out way too late. If I had StayMap back then, I wouldn’t have missed it. Now I never let a concert pass me by. I love that the app notifies me before anyone else.”",
+  "testdosby": "—Andrea, 19 years old, Arequipa. Harry Styles Fan",
+  "testtres": "“I’ve followed Louis since One Direction and always stay alert for anything he’s involved in. StayMap helped me discover a tribute event in my city and I went with my friends. It was amazing!”",
+  "testtresby": "—Fernanda, 22 years old, Trujillo. Louis Tomlinson Fan",
+  "footer": "Subscribe to our newsletter",
+  "footerdos": "Get concert news, presales, and more, straight to your inbox.",
+  "footerboton": "Subscribe",
+  "footercorreo": "Your email address",
+  "copyright": "© 2025 StayMap. All rights reserved.",
+  "abtproduct": "About-The-Product Video",
+  "abtteam": "About-The-Team Video",
+
+  "titulo_beneficios_fan": "Discover the <span class='highlight'>FAN</span> benefits of StayMap",
+  "beneficiofan1": "Get notifications from your <span class='highlight'>favorite artists</span>, anytime, anywhere",
+  "beneficiofan2": "Need to share your opinion?<br/>Rate the concerts you attended!",
+  "beneficiofan3": "Don't have someone to go with to a concert?<br/><span class='highlight'>Share your attendance</span> and find fans!",
+  "beneficiofan4": "In the mood for a concert?<br/>StayMap finds concerts near you!",
+
+  "titulo_beneficios_artista": "Discover the <span class='highlight'>ARTIST</span> benefits of StayMap",
+  "beneficioartista1": "Send notifications to your <span class='highlight'>followers</span>, anytime, anywhere",
+  "beneficioartista2": "Want to see feedback?<br/>Receive comments from followers!",
+  "beneficioartista3": "Want to build a fan community?<br/><span class='highlight'>Share your events</span> and find fans!",
+  "beneficioartista4": "New event nearby?<br/>StayMap finds attendees near you!"
+}
